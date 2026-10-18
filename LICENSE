@@ -1,0 +1,43 @@
+Copyright (C) 2026 Gen1Recomp Mod Engine contributors
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, version 3 of the License, with the Additional Terms below, which
+are added under Section 7 of that License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+## Additional Terms (GPLv3 Section 7)
+
+### 1. Attribution (Section 7(b))
+
+Any copy, fork, modified version, or work based on this program, in source or
+object form, and for any purpose, must:
+
+- keep this license file and every copyright and author notice in the source;
+- give clear, visible credit to the original Gen1Recomp project in its README
+  (or equivalent project page) and in any in-app credits, "about", or title
+  screen, reading at minimum:
+
+  "Based on the Pokemon Gen 1 Recompilation Project by BOIS CLUB GAMES, LLC
+  (https://github.com/bryanthaboi/gen1recomp)";
+
+- show that same credit, visibly, inside any launcher, front end, menu shell,
+  or other program used to start or select the game, including any launcher
+  written to replace the one excluded in term 2 of the original Gen1Recomp
+  license terms.
+
+Using this program, in whole or in part, for other projects is permitted, as
+long as this credit is always given.
+
+### 2. Compatibility with Gen1Recomp
+
+This toolkit generates and packages mods for the Gen1Recomp engine. Generated
+mods and any derivative works must also comply with the Gen1Recomp project's
+own license and attribution requirements when they incorporate or depend on
+engine behavior, data schemas, or documentation from that project.
+
+The full text of the GNU General Public License v3 is available at:
+https://www.gnu.org/licenses/gpl-3.0.html
